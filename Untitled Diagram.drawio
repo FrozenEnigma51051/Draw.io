@@ -171,7 +171,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5ZTxeJF7n6BchAPyBrr-50" value="Dispense Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" parent="x8QZaZsSlO3MQUEWc0BQ-32" vertex="1">
-          <mxGeometry x="340" y="1020" width="147.99" height="40" as="geometry" />
+          <mxGeometry x="343.99" y="1020" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nx5m43WB1CjkXE9a-65d-22" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="x8QZaZsSlO3MQUEWc0BQ-32" vertex="1">
           <mxGeometry x="-53.75" y="1010" width="120" height="60" as="geometry" />
