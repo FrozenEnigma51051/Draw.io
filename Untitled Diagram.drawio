@@ -1237,7 +1237,7 @@
           <mxGeometry x="245" y="460" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xxIVuhYE9TCXlLAUF55T-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="570" width="620" height="190" as="geometry" />
+          <mxGeometry x="70" y="570" width="600" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xxIVuhYE9TCXlLAUF55T-20" value="User Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
@@ -1249,7 +1249,7 @@
           <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xxIVuhYE9TCXlLAUF55T-23" value="Agent Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
