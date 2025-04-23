@@ -1236,6 +1236,21 @@
         <mxCell id="xxIVuhYE9TCXlLAUF55T-18" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Controller&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="460" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xxIVuhYE9TCXlLAUF55T-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="570" width="620" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xxIVuhYE9TCXlLAUF55T-20" value="User Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxIVuhYE9TCXlLAUF55T-21" value="Admin Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233.5" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxIVuhYE9TCXlLAUF55T-22" value="Website Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxIVuhYE9TCXlLAUF55T-23" value="Agent Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
