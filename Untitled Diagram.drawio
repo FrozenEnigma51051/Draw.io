@@ -643,7 +643,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-1" id="XbHlgW8gEIp5bhhci8pN">
-    <mxGraphModel dx="1816" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3633" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -731,17 +731,17 @@
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-25" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="620" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-26" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="630" width="100" height="30" as="geometry" />
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-26" value="Pages passed to testing agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="340" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-27" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="640" width="100" height="30" as="geometry" />
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-27" value="Content and Layout refined" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="340" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-28" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="650" width="100" height="30" as="geometry" />
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-28" value="Orchestrator Running" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="340" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-29" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="680" width="70" height="10" as="geometry" />
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-29" value="System activates the agents pipeline" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="350" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-30" value="User submits form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="350" width="100" height="30" as="geometry" />
@@ -749,8 +749,23 @@
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-31" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-32" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="860" width="100" height="50" as="geometry" />
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-32" value="Pages assembled per agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-36" value="Pages passed to testing agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-37" value="All tests passed" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-38" value="Pages injected into backend" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3245" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-39" value="Project ready" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3270" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhXa0AzNfExDdXNu5Jcw-40" value="Preview shown to user" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3340" y="760" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
