@@ -719,18 +719,6 @@
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-16" value="Pages Refined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2500" y="390" width="215" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-19" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="600" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-23" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="600" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-24" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="610" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-25" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="620" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-26" value="Pages passed to testing agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2680" y="340" width="100" height="30" as="geometry" />
         </mxCell>
