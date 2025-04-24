@@ -657,13 +657,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x8QZaZsSlO3MQUEWc0BQ-7" value="Form Submitted" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="390" width="70" height="40" as="geometry" />
+          <mxGeometry x="850" y="390" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x8QZaZsSlO3MQUEWc0BQ-10" target="RhXa0AzNfExDdXNu5Jcw-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x8QZaZsSlO3MQUEWc0BQ-10" value="Pipeline Activated" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="1030" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ahaecic4h-lOw3RZ4Yj9-1" target="RhXa0AzNfExDdXNu5Jcw-10">
           <mxGeometry relative="1" as="geometry" />
@@ -675,7 +675,7 @@
           <mxGeometry x="2147.5" y="650" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-2" value="Data Distributed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="1200" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-3" value="Components Retrieval Agents Running" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1700" y="310" width="215" height="40" as="geometry" />
@@ -726,10 +726,10 @@
           <mxGeometry x="1110" y="360" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-29" value="System activates the agents pipeline" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="370" width="90" height="10" as="geometry" />
+          <mxGeometry x="930" y="370" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-30" value="User submits form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="370" width="50" height="30" as="geometry" />
+          <mxGeometry x="790" y="370" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-31" value="User fills the requirements form" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="370" width="70" height="30" as="geometry" />
