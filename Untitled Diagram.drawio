@@ -716,7 +716,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-6" value="Assembler Agents Running" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="390" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="1546.25" y="390" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uYZZWNO7qDj5CP0-FybL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RhXa0AzNfExDdXNu5Jcw-7" target="RhXa0AzNfExDdXNu5Jcw-6">
           <mxGeometry relative="1" as="geometry" />
@@ -785,7 +785,7 @@
           <mxGeometry x="640" y="370" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-32" value="Pages assembled per agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1660" y="360" width="70" height="50" as="geometry" />
+          <mxGeometry x="1653.75" y="360" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-36" value="Pages passed to testing agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1790" y="560" width="80" height="30" as="geometry" />
@@ -811,7 +811,7 @@
         <mxCell id="uYZZWNO7qDj5CP0-FybL-11" value="Components retrieved" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1520" y="290" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uYZZWNO7qDj5CP0-FybL-12" value="Component form data assigned" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uYZZWNO7qDj5CP0-FybL-12" value="Components form data assigned" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uYZZWNO7qDj5CP0-FybL-13" value="Layouts running" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
