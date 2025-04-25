@@ -808,7 +808,7 @@
         <mxCell id="uYZZWNO7qDj5CP0-FybL-12" value="Components form data assigned" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1530" y="50" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uYZZWNO7qDj5CP0-FybL-13" value="Layouts running" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uYZZWNO7qDj5CP0-FybL-13" value="Layouts retrieved" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1780" y="150" width="57.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uYZZWNO7qDj5CP0-FybL-14" value="Layouts form data assigned&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
