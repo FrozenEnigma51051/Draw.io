@@ -643,7 +643,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-1" id="XbHlgW8gEIp5bhhci8pN">
-    <mxGraphModel dx="2235" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2422" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -703,11 +703,17 @@
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-4" value="Layouts Retrieval Agents Running" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="390" width="215" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uYZZWNO7qDj5CP0-FybL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RhXa0AzNfExDdXNu5Jcw-5" target="RhXa0AzNfExDdXNu5Jcw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-5" value="Refinement Agents Running" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2050" y="390" width="215" height="40" as="geometry" />
+          <mxGeometry x="1970" y="390" width="215" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uYZZWNO7qDj5CP0-FybL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhXa0AzNfExDdXNu5Jcw-6" target="RhXa0AzNfExDdXNu5Jcw-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-6" value="Assembler Agents Running" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="390" width="215" height="40" as="geometry" />
+          <mxGeometry x="1670" y="390" width="215" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uYZZWNO7qDj5CP0-FybL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RhXa0AzNfExDdXNu5Jcw-7" target="RhXa0AzNfExDdXNu5Jcw-6">
           <mxGeometry relative="1" as="geometry" />
@@ -733,17 +739,23 @@
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-14" value="Setup Project" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3020" y="390" width="215" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uYZZWNO7qDj5CP0-FybL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhXa0AzNfExDdXNu5Jcw-15" target="RhXa0AzNfExDdXNu5Jcw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-15" value="Testing Agent Running" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2730" y="390" width="215" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uYZZWNO7qDj5CP0-FybL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhXa0AzNfExDdXNu5Jcw-16" target="RhXa0AzNfExDdXNu5Jcw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-16" value="Pages Refined" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="390" width="215" height="40" as="geometry" />
+          <mxGeometry x="2270" y="390" width="215" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-26" value="Pages passed to testing agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2750" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-27" value="Content and Layout refined" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2290" y="350" width="100" height="30" as="geometry" />
+          <mxGeometry x="2190" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-28" value="Orchestrator Running" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="360" width="100" height="30" as="geometry" />
@@ -758,7 +770,7 @@
           <mxGeometry x="630" y="370" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-32" value="Pages assembled per agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="340" width="100" height="50" as="geometry" />
+          <mxGeometry x="1890" y="350" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-36" value="Pages passed to testing agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2630" y="340" width="100" height="30" as="geometry" />
