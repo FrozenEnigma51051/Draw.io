@@ -766,9 +766,6 @@
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-16" value="Pages Refined" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1748.75" y="495" width="72.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-26" value="Pages passed to testing agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2750" y="180" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-27" value="Content and Layout refined" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1790" y="450" width="70" height="30" as="geometry" />
         </mxCell>
@@ -798,9 +795,6 @@
         </mxCell>
         <mxCell id="RhXa0AzNfExDdXNu5Jcw-39" value="Project ready" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1310" y="600" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RhXa0AzNfExDdXNu5Jcw-40" value="Preview shown to user" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2290" y="1130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uYZZWNO7qDj5CP0-FybL-9" value="Images retrieved" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1560" y="505" width="40" height="30" as="geometry" />
