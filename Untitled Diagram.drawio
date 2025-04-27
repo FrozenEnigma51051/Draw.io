@@ -1545,7 +1545,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAemeHlCJc1snRYegc4X-37" value="Page Refined" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="360" width="96" height="40" as="geometry" />
+          <mxGeometry x="1342.25" y="360" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9VSAsHPjuoglEePK4QXs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAemeHlCJc1snRYegc4X-38" target="9VSAsHPjuoglEePK4QXs-4">
           <mxGeometry relative="1" as="geometry">
@@ -1567,7 +1567,7 @@
           <mxGeometry x="970" y="300" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9VSAsHPjuoglEePK4QXs-3" value="Issues detected" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1492.25" y="480" width="90" height="10" as="geometry" />
+          <mxGeometry x="1500" y="480" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9VSAsHPjuoglEePK4QXs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VSAsHPjuoglEePK4QXs-4" target="TAemeHlCJc1snRYegc4X-33">
           <mxGeometry relative="1" as="geometry" />
