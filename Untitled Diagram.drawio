@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="9">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2425" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1327,14 +1327,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="RHrm4gPIcDEz5fYbHHRz" name="Page-9">
-    <mxGraphModel dx="1453" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="IEFVj8o233Fx1jN5i6nH" name="Page-10">
     <mxGraphModel dx="28" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1531,7 +1523,7 @@
             <mxPoint x="1306" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TAemeHlCJc1snRYegc4X-31" value="Regeneration Requested" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TAemeHlCJc1snRYegc4X-31" value="Refinement Agent Running" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1147" y="360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAemeHlCJc1snRYegc4X-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TAemeHlCJc1snRYegc4X-33" target="TAemeHlCJc1snRYegc4X-31" edge="1">
@@ -1549,10 +1541,17 @@
         <mxCell id="TAemeHlCJc1snRYegc4X-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TAemeHlCJc1snRYegc4X-37" target="TAemeHlCJc1snRYegc4X-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAemeHlCJc1snRYegc4X-37" value="Agents&lt;div&gt;Pipeline Running&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TAemeHlCJc1snRYegc4X-37" value="Page Refined" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1326" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TAemeHlCJc1snRYegc4X-38" value="Pages regenerated" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9VSAsHPjuoglEePK4QXs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAemeHlCJc1snRYegc4X-38" target="9VSAsHPjuoglEePK4QXs-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1566" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAemeHlCJc1snRYegc4X-38" value="Testing Agent Running" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1516" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAemeHlCJc1snRYegc4X-39" value="Pipeline executed" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1560,6 +1559,15 @@
         </mxCell>
         <mxCell id="mrCHrwLwPben_rfWV9rZ-1" value="User requests small changes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="300" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9VSAsHPjuoglEePK4QXs-3" value="Issues found" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="460" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9VSAsHPjuoglEePK4QXs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VSAsHPjuoglEePK4QXs-4" target="TAemeHlCJc1snRYegc4X-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9VSAsHPjuoglEePK4QXs-4" value="Changes Required" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1234" y="450" width="94" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
