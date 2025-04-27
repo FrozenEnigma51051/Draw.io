@@ -1604,7 +1604,7 @@
           <mxGeometry x="870" y="80" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-5" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=#A9A9A9;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1176" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="1158" y="280" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9NFfh0P50QRk21CmOGw-7" target="U9NFfh0P50QRk21CmOGw-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1622,7 +1622,7 @@
           <mxGeometry x="910" y="70" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-23" value="Order" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=60;height=20;fillColor=#D3D3D3;" vertex="1" parent="1">
-          <mxGeometry x="850" y="20" width="1300" height="340" as="geometry" />
+          <mxGeometry x="850" y="40" width="1120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9NFfh0P50QRk21CmOGw-25" target="U9NFfh0P50QRk21CmOGw-27">
           <mxGeometry relative="1" as="geometry" />
@@ -1641,28 +1641,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-27" value="Placed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="80" width="60" height="40" as="geometry" />
+          <mxGeometry x="1510" y="80" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9NFfh0P50QRk21CmOGw-30" target="U9NFfh0P50QRk21CmOGw-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-30" value="Shipped" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="80" width="70" height="40" as="geometry" />
+          <mxGeometry x="1670" y="80" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9NFfh0P50QRk21CmOGw-32" target="U9NFfh0P50QRk21CmOGw-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-32" value="Received" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1865" y="80" width="75" height="40" as="geometry" />
+          <mxGeometry x="1860" y="80" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-33" value="Customer accepts shipment" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1765" y="60" width="100" height="30" as="geometry" />
+          <mxGeometry x="1750" y="70" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-36" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=#A9A9A9;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1875" y="185" width="40" height="40" as="geometry" />
+          <mxGeometry x="1877.5" y="190" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-38" value="Order is placed" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="1900" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U9NFfh0P50QRk21CmOGw-39" target="U9NFfh0P50QRk21CmOGw-7">
           <mxGeometry relative="1" as="geometry" />
@@ -1674,19 +1674,19 @@
           <mxGeometry x="1136" y="170" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-43" value="Order sent to customer" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="60" width="100" height="30" as="geometry" />
+          <mxGeometry x="1570" y="70" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-44" value="Authorization = Denied" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="215" width="90" height="10" as="geometry" />
+          <mxGeometry x="1300" y="205" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-45" value="Customer edits order information" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="220" width="90" height="10" as="geometry" />
+          <mxGeometry x="1020" y="210" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-46" value="Customer withdraws order request" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="240" width="90" height="10" as="geometry" />
+          <mxGeometry x="1180" y="240" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="U9NFfh0P50QRk21CmOGw-47" value="Authorization = Approved" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="70" width="90" height="10" as="geometry" />
+          <mxGeometry x="1410" y="80" width="90" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
