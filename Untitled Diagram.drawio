@@ -1772,7 +1772,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pBxz1yFKsjxX3gZYKBL7" name="Page-14">
-    <mxGraphModel dx="291" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="335" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1780,7 +1780,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-2" value="Reviewed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="70" width="70" height="40" as="geometry" />
+          <mxGeometry x="1130" y="70" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9Sp-V6p-9uq-HEy0-VD-4" target="m9Sp-V6p-9uq-HEy0-VD-7">
           <mxGeometry relative="1" as="geometry" />
@@ -1792,19 +1792,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-7" value="Draft" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="980" y="70" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m9Sp-V6p-9uq-HEy0-VD-8" value="Reviewed after edits" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="60" width="90" height="10" as="geometry" />
+        <mxCell id="m9Sp-V6p-9uq-HEy0-VD-8" value="Re-reviewed after edits" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="65" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-9" value="Admin reviews entry" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="60" width="80" height="30" as="geometry" />
+          <mxGeometry x="1040" y="60" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-10" value="New entry created" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m9Sp-V6p-9uq-HEy0-VD-11" value="Order" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=60;height=20;fillColor=#D3D3D3;" vertex="1" parent="1">
-          <mxGeometry x="850" y="20" width="1120" height="310" as="geometry" />
+        <mxCell id="m9Sp-V6p-9uq-HEy0-VD-11" value="Knowledge Base Entry Management" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=20;fillColor=#D3D3D3;" vertex="1" parent="1">
+          <mxGeometry x="850" y="20" width="840" height="200" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m9Sp-V6p-9uq-HEy0-VD-14" target="m9Sp-V6p-9uq-HEy0-VD-16">
           <mxGeometry relative="1" as="geometry" />
@@ -1813,18 +1813,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-14" value="Edited" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="1290" y="70" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m9Sp-V6p-9uq-HEy0-VD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m9Sp-V6p-9uq-HEy0-VD-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1670" y="90" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="m9Sp-V6p-9uq-HEy0-VD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m9Sp-V6p-9uq-HEy0-VD-16" target="m9Sp-V6p-9uq-HEy0-VD-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-16" value="Archived" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="70" width="60" height="40" as="geometry" />
+          <mxGeometry x="1460" y="70" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-22" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=#A9A9A9;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="70" width="40" height="40" as="geometry" />
+          <mxGeometry x="1630" y="70" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="m9Sp-V6p-9uq-HEy0-VD-26" target="m9Sp-V6p-9uq-HEy0-VD-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1835,19 +1833,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-26" value="Published" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1153" y="160" width="84" height="40" as="geometry" />
+          <mxGeometry x="1126.5" y="160" width="77" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-27" value="Entry lifecycle complete" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="60" width="100" height="30" as="geometry" />
+          <mxGeometry x="1530" y="60" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-28" value="Admin archives entry" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="205" width="90" height="15" as="geometry" />
+          <mxGeometry x="1380" y="190" width="120" height="15" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-30" value="Admin makes changes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1237" y="150" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="m9Sp-V6p-9uq-HEy0-VD-31" value="Admin archives edited entry" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="70" width="90" height="10" as="geometry" />
+          <mxGeometry x="1360" y="70" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="m9Sp-V6p-9uq-HEy0-VD-38" value="Approved for publishing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="130" width="90" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
